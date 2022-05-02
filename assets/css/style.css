@@ -576,6 +576,7 @@ section .title {
   text-align: center;
   background-color: var(--second-color);
   border: 2px solid var(--main-color);
+  border-radius: 15px;
   color: var(--third-color);
   transition: 1s;
   position: relative;
